@@ -1,8 +1,8 @@
 # secretboxplus-legal
 
-**Status:** published. The SecretboxPlus app itself is not yet on Google Play.
+**Status:** published. The SecretBox+ app itself is not yet on Google Play.
 
-Legal documents for **SecretboxPlus**, an Android app published by
+Legal documents for **SecretBox+**, an Android app published by
 Rastislav Hodul via the Google Play Store (package
 `com.gnugu.secretboxplus`).
 
@@ -20,7 +20,7 @@ The documents here are published via GitHub Pages at:
 
 ## Why a separate repo?
 
-The SecretboxPlus application code lives in a **private** repository
+The SecretBox+ application code lives in a **private** repository
 (`rhodul/secretboxplus`). GitHub Pages on the free plan requires a
 public repository to host pages, so this small sidecar repo exists
 purely to host the legal documentation that the Play Store listing

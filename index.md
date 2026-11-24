@@ -1,11 +1,11 @@
 ---
-title: SecretboxPlus — Legal
+title: SecretBox+ — Legal
 ---
 
-# SecretboxPlus — Legal Documents
+# SecretBox+ — Legal Documents
 
 This site hosts public-facing legal documentation for
-**SecretboxPlus**, an Android app published by Rastislav Hodul via the
+**SecretBox+**, an Android app published by Rastislav Hodul via the
 Google Play Store.
 
 ## Documents

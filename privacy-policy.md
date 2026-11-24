@@ -1,13 +1,13 @@
 ---
-title: Privacy Policy — SecretboxPlus
+title: Privacy Policy — SecretBox+
 ---
 
-# Privacy Policy for SecretboxPlus
+# Privacy Policy for SecretBox+
 
 **Effective date:** 2026-11-23
 **Last updated:** 2026-11-24
 
-"SecretboxPlus" (the "App") is a paid Android app published by
+"SecretBox+" (the "App") is a paid Android app published by
 Rastislav Hodul ("we", "us", or "the Developer"). It stores your
 secrets in an encrypted vault on your device, protected by a password
 that only you know. This privacy policy explains what data the App
@@ -20,8 +20,8 @@ password or your secrets, so we cannot recover either of them for you.
 Your data leaves the device only when you export an encrypted backup
 yourself.
 
-This version of the policy describes **SecretboxPlus 3.0.0 and later**.
-SecretboxPlus is the successor to the earlier "Secret Box" and
+This version of the policy describes **SecretBox+ 3.0.0 and later**.
+SecretBox+ is the successor to the earlier "Secret Box" and
 "Secret Box+" apps; this policy does not cover those earlier apps.
 
 ---
@@ -92,7 +92,7 @@ own privacy policy applies to it.
 
 All of your stored content (compartment names, secret titles, and
 secret bodies) is encrypted inside the file. The file can still be
-recognized as a SecretboxPlus backup, and its size roughly reflects how
+recognized as a SecretBox+ backup, and its size roughly reflects how
 much it contains. The protection depends on your backup password, so
 **choose a strong one**. We cannot recover a forgotten backup password.
 
@@ -129,7 +129,7 @@ you load it, under the
 
 ## 5. What we do NOT do
 
-For the avoidance of doubt, SecretboxPlus does **not**:
+For the avoidance of doubt, SecretBox+ does **not**:
 
 - Require or offer user accounts or sign-in.
 - Operate a server or any cloud sync.
@@ -143,7 +143,7 @@ For the avoidance of doubt, SecretboxPlus does **not**:
 
 ## 6. Children
 
-SecretboxPlus is **not directed at children under 13**. Because the
+SecretBox+ is **not directed at children under 13**. Because the
 App collects no personal data from anyone, it collects none from
 children.
 
@@ -194,14 +194,14 @@ of its source repository.
 
 ## 10. Contact
 
-For privacy questions specific to SecretboxPlus:
+For privacy questions specific to SecretBox+:
 
 **Developer:** Rastislav Hodul
 **Email:** rhodul@gmail.com
 
 ---
 
-*SecretboxPlus is published by Rastislav Hodul. The App is distributed
+*SecretBox+ is published by Rastislav Hodul. The App is distributed
 via the Google Play Store under the package name
 `com.gnugu.secretboxplus`. This document's source repository:
 [github.com/rhodul/secretboxplus-legal](https://github.com/rhodul/secretboxplus-legal).*
