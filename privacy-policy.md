@@ -5,7 +5,7 @@ title: Privacy Policy — SecretboxPlus
 # Privacy Policy for SecretboxPlus
 
 **Effective date:** 2026-11-23
-**Last updated:** 2026-11-23
+**Last updated:** 2026-11-24
 
 "SecretboxPlus" (the "App") is a paid Android app published by
 Rastislav Hodul ("we", "us", or "the Developer"). It stores your
@@ -112,12 +112,15 @@ connections, and the page asks your browser not to translate it
 automatically (translation would send its text to a translation
 service).
 
-The editor is a set of static files that you can run on your own
-computer; it does not depend on any server operated by us. If we later
-offer a hosted copy, the company hosting it may process standard
-web-server data such as your IP address when you load the page, under
-that host's privacy policy, and this section will name the host. We
-receive none of that data.
+The editor is a set of static files. We offer a hosted copy at
+<https://secretboxplus.rhodul.workers.dev>, served by Cloudflare. When
+you load that page, Cloudflare (the host) may process standard
+web-server data such as your IP address, under the
+[Cloudflare Privacy Policy](https://www.cloudflare.com/privacypolicy/).
+We receive none of that data, and the page never sends your file or
+password anywhere: decryption and editing happen entirely in your
+browser. You can also run the same files on your own computer without
+any server.
 
 This policy itself is hosted on GitHub Pages. As with any website,
 GitHub may process standard web-server data such as your IP address when
